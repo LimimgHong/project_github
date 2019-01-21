@@ -2,4 +2,8 @@ This is an awesome class
 That's right
 I said it 
 asdbnasd
+<<<<<<< HEAD
 asdasd asd as
+=======
+Add line to feature branch.
+>>>>>>> feature
